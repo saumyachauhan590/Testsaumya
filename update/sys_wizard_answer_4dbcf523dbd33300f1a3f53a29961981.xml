@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Saumya Table</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Saumya Table</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">88c0ea867d213300aadb74564bf59f30</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2019-08-22 10:14:57</sys_created_on>
+        <sys_id>4dbcf523dbd33300f1a3f53a29961981</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Saumya Table</sys_name>
+        <sys_package display_value="saumya" source="x_170721_saumya">04b29207dbaa33001e349b81ca961942</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="saumya">04b29207dbaa33001e349b81ca961942</sys_scope>
+        <sys_update_name>sys_wizard_answer_4dbcf523dbd33300f1a3f53a29961981</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-08-22 10:14:57</sys_updated_on>
+        <table/>
+        <target_url>x_170721_saumya_table.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
