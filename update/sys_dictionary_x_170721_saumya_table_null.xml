@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-07-14 15:46:57</sys_created_on>
-        <sys_id>d4b29207dbaa33001e349b81ca961975</sys_id>
+        <sys_id>86872523db933300f1a3f53a29961948</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_170721_saumya_table</sys_name>
         <sys_package display_value="saumya" source="x_170721_saumya">04b29207dbaa33001e349b81ca961942</sys_package>
         <sys_policy/>
         <sys_scope display_value="saumya">04b29207dbaa33001e349b81ca961942</sys_scope>
-        <sys_update_name>sys_dictionary_x_170721_saumya_table_null</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-14 15:46:57</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_170721_saumya_table_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-08-22 08:42:27</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
